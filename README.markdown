@@ -24,4 +24,5 @@ have in your home directory.
 
 ## Credit
 
-This was originally a fork of Drew Olsen's [vim_dotfiles](https://github.com/drewolson/vim_dotfiles).
+This was originally a fork of Skim's [vim dotfiles](https://github.com/sl4m/vim-dotfiles),
+which were originally a fork of Drew Olsen's [vim_dotfiles](https://github.com/drewolson/vim_dotfiles).
